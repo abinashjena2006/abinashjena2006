@@ -81,8 +81,6 @@ Computer Science Engineering Student | Python Developer | AI & Machine Learning 
 🚀 **QuizCraft**  
 Modern Online Quiz & Competitive Exam Platform using Flask and MySQL.
 
-📊 **Sales Prediction using ARIMA**
-
 🏏 **Cricket Shot Prediction using Deep Learning**
 
 🏦 **Bank Management System**
